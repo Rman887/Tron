@@ -4,4 +4,4 @@ Play Tron against a friend! Your racer is a line that will keep moving forward. 
 
 Created using Java and LWJGL for OpenGL graphics.
 
-![Tron][screenshots/tron.PNG]
+![Tron](screenshots/tron.PNG)
